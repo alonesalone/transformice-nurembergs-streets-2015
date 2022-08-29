@@ -1,4 +1,4 @@
--- Nuremberg's Streets 2015 LUA Event Script by Neonstrayzer and Hotspotower
+-- Nuremberg's Streets 2015 LUA Event Script by Hotspotower#0000 and Neonstrayzer#0000
 
 translations={
 	EN={
